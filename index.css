@@ -1,0 +1,40 @@
+nav {
+    background-image: url('/Users/juanesteban/CODEACADEMY/CheatSheet/Images/Background image for nav.avif');
+    font-size: 20px;
+    color: white;
+    box-sizing: border-box;
+    width: 10px, 100px;
+}
+
+body {
+    background-color: blue;
+}
+
+* {
+    color: white;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    unicode-bidi: isolate;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    border-color: gray;
+    white-space: normal;
+    font-variant: normal;
+    border: 2px, solid, white;
+}
